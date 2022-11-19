@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>WebCat</title>
+  </head>
+  <body>
+  <script>
+  alert("这是一个有意义的网址收集网页")
+  </script>	
+	<h1>
+ <a href="http:baidu.com">百度</a>
+ <a href="http:pubgmobile.com">PUBGM</a>
+ <a href="https://m.yeitu.com/meinv/rentiyishu/20201020_20340.html">美女</a>
+ <a href="http:cctv.com">CCTV</a>
+ <a href="https://m.iqiyi.com">爱奇艺</a>
+ <a href="https://i.y.qq.com/n2/m/">qq音乐</a>
+ <a href="https:poki.cn">小游戏</a>
+ <a href="https://www.worldometers.info/cn/">世界实时数据</a>
+ 
+ 
+ 
+ 
+ 
+ 
+ </h1>
+  </body>
+</html>
